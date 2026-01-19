@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hidehic0.github.io/blog/sitemap.xml
+
